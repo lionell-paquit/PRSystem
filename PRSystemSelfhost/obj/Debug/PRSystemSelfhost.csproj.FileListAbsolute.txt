@@ -1,0 +1,16 @@
+D:\NMIT\1st SEMESTER\SDV701\Assessment 2\Sources\PRSystem\PRSystemSelfhost\bin\Debug\PRSystemSelfhost.exe.config
+D:\NMIT\1st SEMESTER\SDV701\Assessment 2\Sources\PRSystem\PRSystemSelfhost\bin\Debug\PRSystemSelfhost.exe
+D:\NMIT\1st SEMESTER\SDV701\Assessment 2\Sources\PRSystem\PRSystemSelfhost\bin\Debug\PRSystemSelfhost.pdb
+D:\NMIT\1st SEMESTER\SDV701\Assessment 2\Sources\PRSystem\PRSystemSelfhost\obj\Debug\PRSystemSelfhost.csproj.CoreCompileInputs.cache
+D:\NMIT\1st SEMESTER\SDV701\Assessment 2\Sources\PRSystem\PRSystemSelfhost\obj\Debug\PRSystemSelfhost.exe
+D:\NMIT\1st SEMESTER\SDV701\Assessment 2\Sources\PRSystem\PRSystemSelfhost\obj\Debug\PRSystemSelfhost.pdb
+D:\NMIT\1st SEMESTER\SDV701\Assessment 2\Sources\PRSystem\PRSystemSelfhost\bin\Debug\Newtonsoft.Json.dll
+D:\NMIT\1st SEMESTER\SDV701\Assessment 2\Sources\PRSystem\PRSystemSelfhost\bin\Debug\System.Net.Http.Formatting.dll
+D:\NMIT\1st SEMESTER\SDV701\Assessment 2\Sources\PRSystem\PRSystemSelfhost\bin\Debug\System.Web.Http.dll
+D:\NMIT\1st SEMESTER\SDV701\Assessment 2\Sources\PRSystem\PRSystemSelfhost\bin\Debug\System.Web.Http.SelfHost.dll
+D:\NMIT\1st SEMESTER\SDV701\Assessment 2\Sources\PRSystem\PRSystemSelfhost\bin\Debug\Newtonsoft.Json.xml
+D:\NMIT\1st SEMESTER\SDV701\Assessment 2\Sources\PRSystem\PRSystemSelfhost\bin\Debug\System.Net.Http.Formatting.xml
+D:\NMIT\1st SEMESTER\SDV701\Assessment 2\Sources\PRSystem\PRSystemSelfhost\bin\Debug\System.Web.Http.xml
+D:\NMIT\1st SEMESTER\SDV701\Assessment 2\Sources\PRSystem\PRSystemSelfhost\bin\Debug\System.Web.Http.SelfHost.xml
+D:\NMIT\1st SEMESTER\SDV701\Assessment 2\Sources\PRSystem\PRSystemSelfhost\obj\Debug\PRSystemSelfhost.csprojResolveAssemblyReference.cache
+D:\NMIT\1st SEMESTER\SDV701\Assessment 2\Sources\PRSystem\PRSystemSelfhost\obj\Debug\PRSystemSelfhost.csproj.CopyComplete
